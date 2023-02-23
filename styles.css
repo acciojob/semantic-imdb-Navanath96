@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#actor,#quote{
+	margin:20px 0px;
+	padding:20px;
+	background-color:tomato;
+	color:blue
+}
+footer{
+	background-color:black;
+	color:white;
+}
